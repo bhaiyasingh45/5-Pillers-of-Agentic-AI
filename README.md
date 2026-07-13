@@ -1,4 +1,4 @@
-# 🚀 5 Pillars of Agentic AI
+# 5 Pillars of Agentic AI
 
 A visual and practical guide to the core engineering disciplines behind modern AI agents.
 
